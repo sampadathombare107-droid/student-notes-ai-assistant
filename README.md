@@ -163,3 +163,18 @@ Please consider giving this repository a ⭐ on GitHub.
 ## 🔍 Retrieved Chunks
 
 ![Retrieved Chunks](screenshots/retrieved_chunks.png)
+---
+
+# ⚠️ Known Limitations
+
+Some PDF files may display special characters (for example, "EvaluaƟon" instead of "Evaluation") due to PDF font encoding and text extraction limitations.
+
+This issue does not affect:
+
+- Semantic Search
+- FAISS Retrieval
+- Question Answering
+- Notes Summary
+- Important Question Generation
+
+The RAG pipeline continues to function correctly.
