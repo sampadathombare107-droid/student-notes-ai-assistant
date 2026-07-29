@@ -1,0 +1,7 @@
+venv/
+venv copy/
+.env
+__pycache__/
+*.pyc
+*.faiss
+.ipynb_checkpoints/
