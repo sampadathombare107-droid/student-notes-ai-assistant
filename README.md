@@ -120,7 +120,7 @@ Some PDFs created with custom fonts or ligatures may display special characters 
 
 # 👨‍💻 Author
 
-**Kunal Thokal**
+**Sampada Thombare**
 
 Python | Data Science | Generative AI
 
@@ -129,3 +129,37 @@ Python | Data Science | Generative AI
 # ⭐ If you like this project
 
 Please consider giving this repository a ⭐ on GitHub.
+# 📸 Screenshots
+## 🏠 Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+## 📄 Notes Summary
+
+![Summary](screenshots/summary.png)
+
+---
+
+## 🎯 Important Questions
+
+![Important Questions](screenshots/important_questions.png)
+
+---
+
+## 💬 Question Answering
+
+![Question Answering](screenshots/question_answer.png)
+
+---
+
+## 🗂 Conversation History
+
+![Conversation History](screenshots/conversation_history.png)
+
+---
+
+## 🔍 Retrieved Chunks
+
+![Retrieved Chunks](screenshots/retrieved_chunks.png)
