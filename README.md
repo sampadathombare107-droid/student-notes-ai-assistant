@@ -1,3 +1,4 @@
+![Student Notes AI Assistant Banner](assets/banner.png)
 # 📚 Student Notes AI Assistant
 
 An AI-powered Student Notes Assistant built using **Python, Streamlit, LangChain, FAISS, HuggingFace Embeddings, and Groq LLM**.
